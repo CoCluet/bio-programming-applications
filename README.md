@@ -49,6 +49,7 @@ python main.py [option]
 You can modify the different parameters to explore and understand different behaviors of the algorithms.
 
 **1) ACO parameters**
+
 Located in the file:
 - `ACO/config1.json` for the first problem.
 - `ACO/config2.json` for the second problem.
@@ -56,6 +57,7 @@ Located in the file:
 **Note**: You can choose the problem in the \_\_init__ method of the classe Engine,  in the file `ACO/engine.py`.
 
 **2) NEAT parameters**
+
 Adjustable in the file `NEAT/config.txt`.
 
 ## Authors

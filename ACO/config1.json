@@ -1,0 +1,11 @@
+{
+    "num_ants": 50,
+    "num_elite_ants": 10,
+    "num_iterations": 20,
+    "alpha": 1.0,
+    "beta": 2.0,
+    "evaporation_rate": 0.1,
+    "length_segments": 10,
+    "angle": 10,
+    "num_max_segments": 50
+}

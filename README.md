@@ -13,11 +13,13 @@ The paper related to this project is available [here](https://drive.google.com/f
 This project presents two popular bio-inspired methods:
 
 **1. NEAT (NeuroEvolution of Augmenting Topologies)**
+
 This method is an artificial evolution algorithm designed to optimize both the topology and weights of neural networks. We apply this method to teach a car to drive on a circuit, by making the right decision at the right time.
 
 
 
 **2. ACO (Ant Colony Optimization)**
+
 Inspired by the behavior of ant colonies in nature, ACO is a combinatorial optimization algorithm commonly used for problems like graph traversal and routing. This method will be used to park a car in a parking space, by finding the right path.
 
 
@@ -59,6 +61,7 @@ Adjustable in the file `NEAT/config.txt`.
 ## Authors
 
 - **Corentin CLUET**
+  
   Contact: cluetcorentin@gmail.com
 
 
